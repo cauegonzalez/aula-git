@@ -1,3 +1,3 @@
 <?php
-echo "teste";
+echo "Gerando o segundo RELEASE";
 ?>
